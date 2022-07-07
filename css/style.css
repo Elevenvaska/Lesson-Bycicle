@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(../Images/wallpaper.jpg);
+    width: 100vh;
+    height: 100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%p;
+    font-size: 27px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-left: 25px;
+}
+
+.main-div  {
+    width: 1800px;
+    background-color:transparent;
+}
+
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+li:hover {
+    color: #ef8216;
+    text-decoration: underline;
+}
+
+li {
+    display: inline;
+}
+
+button {
+    background-color: #ef8216;
+    height: 40px;
+    width: 100px;
+    border-style: none;
+    color: white;
+    font-weight: 400;
+    font-size: 27px;
+    margin-left: 30px;
+}
+
+
+.cart{
+    vertical-align: middle;
+    height: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+.second-div {
+    width: 720px;
+    height: 350px;
+    background-color:transparent;
+    margin-top: 200px;
+    margin-left: 200px;
+    align-items: center;
+    position: relative;
+}
+
+.firstbutton, .secondbutton {
+    width: 180px;
+    height: 45px;
+    margin: 0;
+
+}
+
+
